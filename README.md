@@ -58,7 +58,7 @@ Here are some of the development tools and environments I use:
 
 If you're interested in my projects or have any questions, feel free to reach out to me.
 
-- ✉️ Email: [diorgerb@gmail.co](mailto:diorgerb@gmail.com)
+- ✉️ Email: [diorgerb@gmail.com](mailto:diorgerb@gmail.com)
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/diorgerbretas/)
 
 Feel free to explore my projects, and thank you for visiting my GitHub!
