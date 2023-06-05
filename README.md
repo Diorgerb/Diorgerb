@@ -53,13 +53,6 @@ Here are some of the development tools and environments I use:
 - 💻 Python: I use the Python language to develop projects related to task automation, computer vision, AI, and machine learning. VS Code provides native support for Python, making it easy to set up the environment and debug code.
 - 🛠 Git: I use Git for version control of projects. VS Code has built-in Git integration, allowing me to easily manage repositories and perform version control operations directly within the editor interface.
 
-## Projects
-
-Here are some of my interesting projects:
-
-1. **Task Automator**: A Python script for automating routine tasks, saving time and minimizing human errors.
-2. **Object Detection in Images**: A computer vision project using machine learning techniques to detect objects in images.
-3. **Data Classification using AI**: An application that utilizes machine learning algorithms to classify data into relevant categories.
 
 ## Contact
 
