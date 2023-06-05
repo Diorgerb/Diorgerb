@@ -2,7 +2,7 @@
 
 # Bem-vindo ao meu GitHub!
 
-Olá! Meu nome é Diórger e sou um estudante de Farmácia no último período com uma crescente paixão pela programação. Este é o meu GitHub, onde compartilho projetos que exploram as áreas de automação de tarefas, visão computacional, inteligência artificial (IA) e aprendizado de máquina.
+Olá! Meu nome é Diórger e sou um estudante de Farmácia no último período e entusiasta pela programação e tudo relacionado a tecnologia. Este é o meu GitHub, onde compartilho projetos que exploram as áreas de automação de tarefas, visão computacional, inteligência artificial (IA) e aprendizado de máquina.
 
 ## Sobre mim
 
@@ -19,20 +19,12 @@ Aqui estão algumas das ferramentas e ambientes de desenvolvimento que utilizo:
 - 💻 Python: Utilizo a linguagem Python para desenvolver projetos relacionados à automação de tarefas, visão computacional, IA e aprendizado de máquina. O VS Code oferece suporte nativo ao Python, facilitando a configuração do ambiente e a depuração de código.
 - 🛠 Git: Utilizo o Git para controle de versão de projetos. O VS Code possui integração com o Git, permitindo que eu gerencie facilmente repositórios e realize operações de controle de versão diretamente na interface do editor.
 
-## Projetos
-
-Aqui estão alguns dos meus projetos interessantes:
-
-1. **Automatizador de Processos**: Um script Python para automatizar tarefas rotineiras, economizando tempo e minimizando erros humanos.
-2. **Detecção de Objetos em Imagens**: Um projeto de visão computacional utilizando técnicas de aprendizado de máquina para detectar objetos em imagens.
-3. **Classificação de Dados usando IA**: Uma aplicação que utiliza algoritmos de aprendizado de máquina para classificar dados em categorias relevantes.
-
 ## Contato
 
 Se você estiver interessado nos meus projetos ou tiver alguma pergunta, sinta-se à vontade para entrar em contato comigo.
 
-- ✉️ Email: [seuemail@example.com](mailto:diorgerb@gmail.com)
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/sdiorgerbretas/)
+- ✉️ Email: [Meu E-mail](mailto:diorgerb@gmail.com)
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/diorgerbretas/)
 
 Sinta-se à vontade para explorar meus projetos e obrigado por visitar meu GitHub!
 
@@ -73,7 +65,7 @@ Here are some of my interesting projects:
 
 If you're interested in my projects or have any questions, feel free to reach out to me.
 
-- ✉️ Email: [youremail@example.com](mailto:diorgerb@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/diorgerbretas/)
+- ✉️ Email: [My E-mail](mailto:diorgerb@gmail.com)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/diorgerbretas/)
 
 Feel free to explore my projects, and thank you for visiting my GitHub!
