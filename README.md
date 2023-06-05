@@ -23,7 +23,7 @@ Aqui estão algumas das ferramentas e ambientes de desenvolvimento que utilizo:
 
 Se você estiver interessado nos meus projetos ou tiver alguma pergunta, sinta-se à vontade para entrar em contato comigo.
 
-- ✉️ Email: [Meu E-mail](mailto:diorgerb@gmail.com)
+- ✉️ Email: [diorgerb@gmail.com](mailto:diorgerb@gmail.com)
 - 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/diorgerbretas/)
 
 Sinta-se à vontade para explorar meus projetos e obrigado por visitar meu GitHub!
@@ -58,7 +58,7 @@ Here are some of the development tools and environments I use:
 
 If you're interested in my projects or have any questions, feel free to reach out to me.
 
-- ✉️ Email: [My E-mail](mailto:diorgerb@gmail.com)
+- ✉️ Email: [diorgerb@gmail.co](mailto:diorgerb@gmail.com)
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/diorgerbretas/)
 
 Feel free to explore my projects, and thank you for visiting my GitHub!
